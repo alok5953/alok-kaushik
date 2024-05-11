@@ -37,9 +37,9 @@ I'm excited to collaborate on projects that involve:
 
 ⚡ **Fun Fact**
 
-🎸 When I'm not coding, you can find me binging.
-🌍 I've always dreamed of traveling to Hawaii, and I'm slowly saving up for it.
-🌶️ I'm a huge fan of spicy food – the hotter, the better!
+* 🎸 When I'm not coding, you can find me binging.
+* 🌍 I've always dreamed of traveling to Hawaii, and I'm slowly saving up for it.
+* 🌶️ I'm a huge fan of spicy food – the hotter, the better!
 
 📫 **Let's Connect!**
 
